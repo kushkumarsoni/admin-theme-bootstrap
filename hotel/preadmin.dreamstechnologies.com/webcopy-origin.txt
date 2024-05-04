@@ -1,0 +1,2276 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\ajax\libs\magnific-popup.js\1.1.0\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\ajax\libs\magnific-popup.js\1.1.0\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://preadmin.dreamstechnologies.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/activities.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\activities.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-asset.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-asset.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-blog.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-blog.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-booking.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-booking.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-customer.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-customer.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-employee.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-employee.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-expense.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-expense.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-holiday.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-holiday.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-leave-type.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-leave-type.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-leave.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-leave.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-pricing.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-pricing.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-provident-fund.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-provident-fund.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-role.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-role.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-room.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-room.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-salary.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-salary.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-staff.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-staff.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/add-tax.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\add-tax.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/all-booking.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\all-booking.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/all-customer.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\all-customer.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/all-rooms.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\all-rooms.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/all-staff.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\all-staff.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/css/bootstrap-datetimepicker.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\css\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/css/feathericon.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\css\feathericon.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/css/select2.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\css\select2.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/css/style.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\css\style.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/fonts/feathericon.eot?
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\fonts\feathericon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/fonts/feathericon.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\fonts\feathericon.ttf
+Content Type: font/ttf
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/fonts/feathericon.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\fonts\feathericon.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/fonts/MaterialIcons-Regular.eot
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\fonts\MaterialIcons-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/fonts/MaterialIcons-Regular.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\fonts\MaterialIcons-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/fonts/MaterialIcons-Regular.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\fonts\MaterialIcons-Regular.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/fonts/MaterialIcons-Regular.woff2
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\fonts\MaterialIcons-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/arrow.svg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/hotel_logo.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\hotel_logo.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/placeholder.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\placeholder.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/product/product-01.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\product\product-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/product/product-02.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\product\product-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/product/product-03.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\product\product-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/product/product-04.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\product\product-04.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/product/product-05.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\product\product-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/product/product-06.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\product\product-06.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/product/product-07.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\product\product-07.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/product/product-08.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\product\product-08.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-01.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-02.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-03.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-04.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-04.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-05.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-06.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-06.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-07.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-07.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-08.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-08.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-09.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-09.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-10.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-10.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-11.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-11.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-12.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-12.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-13.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-13.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-15.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-15.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-16.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-16.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/profiles/avatar-17.jpg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\profiles\avatar-17.jpg
+Content Type: image/jpeg
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/img/sent.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\img\sent.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/bootstrap-datetimepicker.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\bootstrap-datetimepicker.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/chart.morris.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\chart.morris.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/form-validation.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\form-validation.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\jquery-3.6.0.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\jquery-ui.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/jquery.maskedinput.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\jquery.maskedinput.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/mask.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\mask.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/moment.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\moment.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\popper.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/script.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\script.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/js/select2.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\js\select2.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/alertify/alertify.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\alertify\alertify.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/alertify/alertify.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\alertify\alertify.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/alertify/custom-alertify.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\alertify\custom-alertify.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/apexchart/apexcharts.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\apexchart\apexcharts.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/apexchart/chart-data.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\apexchart\chart-data.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/c3-chart/c3.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\c3-chart\c3.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/c3-chart/c3.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\c3-chart\c3.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/c3-chart/chart-data.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\c3-chart\chart-data.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/c3-chart/d3.v5.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\c3-chart\d3.v5.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/chartjs/chart-data.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\chartjs\chart-data.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/chartjs/chart.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\chartjs\chart.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/clipboard/clipboard.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\clipboard\clipboard.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/countup/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\countup\jquery.counterup.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/countup/jquery.missofis-countdown.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\countup\jquery.missofis-countdown.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/countup/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\countup\jquery.waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/datatables/datatables.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\datatables\datatables.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/datatables/datatables.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\datatables\datatables.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/datatables/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\datatables\jquery.dataTables.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/dragula/css/dragula.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\dragula\css\dragula.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/dragula/js/drag-drop.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\dragula\js\drag-drop.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/dragula/js/dragula.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\dragula\js\dragula.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fileupload/fileupload.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fileupload\fileupload.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/flot/chart-data.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\flot\chart-data.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/flot/jquery.flot.fillbetween.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\flot\jquery.flot.fillbetween.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/flot/jquery.flot.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\flot\jquery.flot.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/flot/jquery.flot.pie.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\flot\jquery.flot.pie.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/css/all.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\css\all.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fullcalendar/fullcalendar.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fullcalendar\fullcalendar.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fullcalendar/fullcalendar.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fullcalendar\fullcalendar.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/fullcalendar/jquery.fullcalendar.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\fullcalendar\jquery.fullcalendar.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/feather/feather.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\feather\feather.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/feather/fonts/feather-webfont.woff?t=1501841394106
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\feather\fonts\feather-webfont.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ad.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ad.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ae.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ae.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/af.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\af.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ag.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ag.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ai.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ai.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/al.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\al.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/am.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\am.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ao.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ao.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ar.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ar.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/as.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\as.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/at.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\at.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/au.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\au.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/aw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\aw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ax.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ax.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/az.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\az.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ba.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ba.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bb.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bb.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bd.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bd.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/be.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\be.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bf.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bf.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bh.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bh.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bi.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bi.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bj.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bj.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bl.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bl.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bo.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bo.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bq.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bq.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/br.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\br.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bs.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bs.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bt.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bt.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bv.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bv.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/by.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\by.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/bz.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\bz.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ca.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ca.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cc.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cc.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cd.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cd.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cf.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cf.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ch.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ch.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ci.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ci.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ck.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ck.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cl.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cl.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/co.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\co.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cu.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cu.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cv.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cv.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cx.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cx.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cy.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cy.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/cz.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\cz.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/de.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\de.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/dj.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\dj.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/dk.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\dk.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/dm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\dm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/do.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\do.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/dz.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\dz.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ec.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ec.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ee.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ee.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/eg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\eg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/er.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\er.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/es.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\es.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/et.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\et.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/fi.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\fi.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/fj.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\fj.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/fk.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\fk.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/fm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\fm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/fo.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\fo.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/fr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\fr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ga.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ga.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gb.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gb.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gd.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gd.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ge.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ge.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gf.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gf.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gh.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gh.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gi.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gi.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gl.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gl.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gp.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gp.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gq.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gq.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gs.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gs.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gt.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gt.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gu.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gu.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/gy.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\gy.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/hk.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\hk.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/hn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\hn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/hr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\hr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ht.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ht.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/hu.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\hu.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/id.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\id.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ie.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ie.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/il.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\il.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/im.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\im.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/in.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\in.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/io.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\io.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/iq.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\iq.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ir.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ir.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/is.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\is.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/it.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\it.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/je.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\je.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/jm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\jm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/jo.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\jo.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/jp.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\jp.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ke.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ke.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/kg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\kg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/kh.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\kh.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ki.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ki.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/km.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\km.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/kn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\kn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/kp.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\kp.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/kr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\kr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/kw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\kw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ky.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ky.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/kz.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\kz.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/la.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\la.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/lb.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\lb.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/lc.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\lc.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/li.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\li.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/lk.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\lk.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/lr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\lr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ls.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ls.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/lt.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\lt.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/lu.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\lu.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/lv.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\lv.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ly.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ly.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ma.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ma.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mc.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mc.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/md.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\md.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/me.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\me.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mh.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mh.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mk.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mk.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ml.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ml.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mo.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mo.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mp.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mp.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mq.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mq.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ms.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ms.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mt.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mt.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mu.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mu.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mv.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mv.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mx.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mx.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/my.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\my.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/mz.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\mz.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/na.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\na.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/nc.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\nc.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ne.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ne.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/nf.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\nf.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ng.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ng.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ni.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ni.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/nl.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\nl.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/no.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\no.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/np.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\np.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/nr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\nr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/nu.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\nu.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/nz.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\nz.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/om.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\om.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pa.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pa.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pe.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pe.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pf.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pf.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ph.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ph.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pk.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pk.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pl.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pl.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ps.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ps.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pt.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pt.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/pw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\pw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/py.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\py.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/qa.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\qa.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/re.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\re.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ro.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ro.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/rs.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\rs.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ru.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ru.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/rw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\rw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sa.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sa.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sb.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sb.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sc.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sc.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sd.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sd.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/se.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\se.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sh.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sh.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/si.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\si.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sk.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sk.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sl.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sl.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/so.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\so.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ss.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ss.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/st.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\st.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sv.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sv.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sx.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sx.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sy.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sy.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/sz.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\sz.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tc.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tc.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/td.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\td.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tf.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tf.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/th.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\th.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tj.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tj.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tk.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tk.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tl.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tl.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/to.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\to.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tr.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tr.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tt.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tt.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tv.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tv.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/tz.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\tz.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ua.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ua.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ug.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ug.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/um.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\um.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/us.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\us.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/uy.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\uy.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/uz.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\uz.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/va.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\va.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/vc.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\vc.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ve.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ve.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/vg.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\vg.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/vi.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\vi.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/vn.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\vn.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/vu.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\vu.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/wf.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\wf.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ws.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ws.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/ye.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\ye.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/yt.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\yt.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/za.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\za.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/zm.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\zm.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/flags/flags/zw.png
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\flags\flags\zw.png
+Content Type: image/png
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/ionic/fonts/ionicons.ttf?v=1.5.0
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\ionic\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/ionic/ionicons.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\ionic\ionicons.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/pe7/fonts/Pe-icon-7-stroke.woff?d7yf1v
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\pe7\fonts\Pe-icon-7-stroke.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/pe7/pe-icon-7.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\pe7\pe-icon-7.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/themify/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\themify\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/themify/themify.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\themify\themify.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/typicons/fonts/typicons.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\typicons\fonts\typicons.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/typicons/typicons.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\typicons\typicons.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/weather/fonts/weathericons-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\weather\fonts\weathericons-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/icons/weather/weathericons.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\icons\weather\weathericons.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/ion-rangeslider/css/ion.rangeSlider.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\ion-rangeslider\css\ion.rangeSlider.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/ion-rangeslider/js/custom-rangeslider.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\ion-rangeslider\js\custom-rangeslider.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/ion-rangeslider/js/ion.rangeSlider.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\ion-rangeslider\js\ion.rangeSlider.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/lightbox/glightbox.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\lightbox\glightbox.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/lightbox/glightbox.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\lightbox\glightbox.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/lightbox/lightbox.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\lightbox\lightbox.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/material/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\material\fonts\Material-Design-Iconic-Font.woff2
+Content Type: font/woff2
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/material/fonts/materialdesignicons-webfont.woff2?v=2.0.46
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\material\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/material/materialdesignicons.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\material\materialdesignicons.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/morris/chart-data.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\morris\chart-data.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/morris/morris.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\morris\morris.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/morris/morris.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\morris\morris.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/peity/chart-data.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\peity\chart-data.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/peity/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\peity\jquery.peity.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/raphael/raphael-min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\raphael\raphael-min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/raphael/raphael.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\raphael\raphael.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/raty/custom.raty.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\raty\custom.raty.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/raty/jquery.raty.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\raty\jquery.raty.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/scrollbar/custom-scroll.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\scrollbar\custom-scroll.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/scrollbar/scroll.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\scrollbar\scroll.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/scrollbar/scrollbar.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\scrollbar\scrollbar.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/select2/js/custom-select.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\select2\js\custom-select.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/select2/js/select2.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\select2\js\select2.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/simpleline/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\simpleline\fonts\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/simpleline/simple-line-icons.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\simpleline\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/slimscroll/jquery.slimscroll.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\slimscroll\jquery.slimscroll.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/stickynote/sticky.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\stickynote\sticky.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/stickynote/sticky.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\stickynote\sticky.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/summernote/dist/font/summernote.eot
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\summernote\dist\font\summernote.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/summernote/dist/font/summernote.eot?
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\summernote\dist\font\summernote-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/summernote/dist/font/summernote.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\summernote\dist\font\summernote.ttf
+Content Type: font/ttf
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/summernote/dist/font/summernote.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\summernote\dist\font\summernote.woff
+Content Type: font/woff
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/summernote/dist/font/summernote.woff2
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\summernote\dist\font\summernote.woff2
+Content Type: font/woff2
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/summernote/dist/summernote-bs4.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\summernote\dist\summernote-bs4.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/summernote/dist/summernote-bs4.min.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\summernote\dist\summernote-bs4.min.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/summernote/dist/summernote-bs4.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\summernote\dist\summernote-bs4.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/sweetalert/sweetalert2.all.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\sweetalert\sweetalert2.all.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/sweetalert/sweetalerts.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\sweetalert\sweetalerts.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/timeline/horizontal-timeline.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\timeline\horizontal-timeline.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/toastr/toastr.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\toastr\toastr.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/toastr/toastr.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\toastr\toastr.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/toastr/toatr.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\toastr\toatr.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/twitter-bootstrap-wizard/form-wizard.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\twitter-bootstrap-wizard\form-wizard.css
+Content Type: text/css
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/twitter-bootstrap-wizard/form-wizard.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\twitter-bootstrap-wizard\form-wizard.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/twitter-bootstrap-wizard/jquery.bootstrap.wizard.min.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\twitter-bootstrap-wizard\jquery.bootstrap.wizard.min.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/assets/plugins/twitter-bootstrap-wizard/prettify.js
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\assets\plugins\twitter-bootstrap-wizard\prettify.js
+Content Type: text/javascript
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/attendance.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\attendance.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/blank-page.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\blank-page.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/blog-details.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\blog-details.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/blog.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\blog.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/calendar.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\calendar.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/change-password.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\change-password.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/chart-apex.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\chart-apex.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/chart-c3.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\chart-c3.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/chart-flot.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\chart-flot.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/chart-js.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\chart-js.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/chart-morris.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\chart-morris.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/chart-peity.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\chart-peity.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/chat.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\chat.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/clipboard.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\clipboard.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/compose.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\compose.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/counter.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\counter.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/create-invoice.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\create-invoice.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/drag-drop.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\drag-drop.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-asset.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-asset.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-blog.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-blog.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-booking.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-booking.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-customer.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-customer.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-employee.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-employee.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-expense.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-expense.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-holiday.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-holiday.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-invoice.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-invoice.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-leave-type.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-leave-type.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-leave.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-leave.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-pricing.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-pricing.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-profile.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-profile.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-provident-fund.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-provident-fund.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-room.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-room.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-salary.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-salary.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-staff.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-staff.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/edit-tax.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\edit-tax.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/email-settings.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\email-settings.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/employees.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\employees.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/error-404.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\error-404.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/error-500.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\error-500.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/expense-reports.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\expense-reports.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/expenses.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\expenses.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/forgot-password.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\forgot-password.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/form-basic-inputs.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\form-basic-inputs.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/form-fileupload.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\form-fileupload.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/form-horizontal.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\form-horizontal.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/form-input-groups.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\form-input-groups.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/form-mask.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\form-mask.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/form-select2.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\form-select2.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/form-validation.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\form-validation.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/form-vertical.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\form-vertical.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/form-wizard.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\form-wizard.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/gallery.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\gallery.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/holidays.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\holidays.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/horizontal-timeline.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\horizontal-timeline.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-feather.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-feather.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-flag.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-flag.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-fontawesome.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-fontawesome.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-ionic.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-ionic.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-material.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-material.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-pe7.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-pe7.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-simpleline.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-simpleline.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-themify.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-themify.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-typicon.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-typicon.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/icon-weather.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\icon-weather.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/inbox.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\inbox.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/incoming-call.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\incoming-call.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/index.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\index.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/invoice-reports.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\invoice-reports.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/invoice-settings.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\invoice-settings.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/invoice-view.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\invoice-view.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/invoices.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\invoices.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/leave-type.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\leave-type.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/leaves.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\leaves.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/lightbox.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\lightbox.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/localization.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\localization.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/lock-screen.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\lock-screen.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/login.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\login.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/mail-veiw.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\mail-veiw.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/notification.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\notification.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/notifications-settings.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\notifications-settings.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/payments.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\payments.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/popover.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\popover.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/pricing.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\pricing.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/profile.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\profile.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/provident-fund.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\provident-fund.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/rangeslider.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\rangeslider.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/rating.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\rating.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/register.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\register.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/ribbon.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\ribbon.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/roles-permissions.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\roles-permissions.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/salary-settings.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\salary-settings.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/salary-veiw.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\salary-veiw.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/salary.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\salary.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/scrollbar.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\scrollbar.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/settings.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\settings.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/spinner.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\spinner.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/stickynote.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\stickynote.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/sweetalerts.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\sweetalerts.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/tables-basic.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\tables-basic.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/tables-datatables.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\tables-datatables.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/tabs.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\tabs.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/taxes.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\taxes.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/text-editor.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\text-editor.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/theme-settings.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\theme-settings.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/timeline.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\timeline.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/toastr.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\toastr.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/tooltip.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\tooltip.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/typography.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\typography.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/uikit.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\uikit.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/video-call.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\video-call.html
+Content Type: text/html
+
+Uri: https://preadmin.dreamstechnologies.com/html/hotel/template2/voice-call.html
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\html\hotel\template2\voice-call.html
+Content Type: text/html
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/css/all.css
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\hotel\preadmin.dreamstechnologies.com\releases\v5.8.2\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
